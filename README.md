@@ -1,12 +1,27 @@
+![main_banner](./docs/pics/main_banner.jpg)
+
 Flamingo 是一款仿 Apple Music 风格的安卓端本地音乐播放器，目前正在开发中。
 
-[📕 English Version](https://)
+[📕 English Version](./docs/README_en.md)
 
-[常见问题](https://) | [建议 / 反馈](https://) | [赞助开发](https://afdian.tv/a/yos-x)
+[常见问题](./docs/FAQ.md) | [建议 / 反馈](https://github.com/Yos-X/FlamingoHere/issues) | [赞助开发](https://afdian.tv/a/yos-x)
+
+请注意！本仓库尚不是用于上传本软件源码，仅为简单介绍及收集反馈所用。
 
 ### 界面
 
-<br/>
+<table width="100%">
+  <tr>
+    <td align="center"><img src="./docs/pics/1.jpg" width="100%" alt="1"></td>
+    <td align="center"><img src="./docs/pics/2.jpg" width="100%" alt="2"></td>
+    <td align="center"><img src="./docs/pics/3.jpg" width="100%" alt="3"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./docs/pics/4.jpg" width="100%" alt="4"></td>
+    <td align="center"><img src="./docs/pics/5.jpg" width="100%" alt="5"></td>
+    <td align="center"><img src="./docs/pics/6.jpg" width="100%" alt="6"></td>
+  </tr>
+</table>
 
 ### 基本
 
