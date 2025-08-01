@@ -70,7 +70,7 @@ Ticker Lyric
 
 FFmpeg 支持
 
-> 支持使用 FFmpeg aar 扩展（遵循 LGPL 协议）进行音频解码，该解码器默认作为后备启用。
+> 支持使用 FFmpeg .aar 扩展（遵循 LGPL 协议）进行音频解码，该解码器默认作为后备启用。
 
 ### 大屏幕横屏 UI 支持
 

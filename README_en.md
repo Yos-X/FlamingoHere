@@ -6,7 +6,7 @@ Flamingo is a local music player for Android, styled after Apple Music, and is c
 
 ⚠ Please note! This repository has not yet been used to upload the app's source code. It is solely for brief introduction and feedback collection.
 
-[📕 Chinese Version](README.md)
+[📕 中文版本](README.md)
 
 [FAQ](./docs/FAQ.md) | [Suggestions / Feedback](https://github.com/Yos-X/FlamingoHere/issues) | [Support Development](https://afdian.tv/a/yos-x)
 
@@ -62,7 +62,7 @@ Ticker Lyric
 > Supports sending lyrics via the ticker in notifications; some systems / modules can use this feature to retrieve lyrics and provide services like status bar lyrics.
 
 FFmpeg Support
-> Supports audio decoding using the FFmpeg aar extension (compliant with the LGPL license), which is enabled by default as a fallback.
+> Supports audio decoding using the FFmpeg .aar extension (compliant with the LGPL license), which is enabled by default as a fallback.
 
 ### Large Screen Landscape UI Support
 Supports landscape UI on large screens, with an interface similar to Apple Music on iPad.
