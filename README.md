@@ -52,8 +52,6 @@ Flamingo 是一款仿 Apple Music 风格的安卓端本地音乐播放器，目�
 
 Flamingo 支持 `完全的 TTML` 及 `各种 LRC 格式` 歌词的解析与显示，且自带歌词规整功能，可将歌词版式自动规整。
 
-支持的详细歌词格式（这里仅展示部分）：
-
 完整版请查看 [Flamingo 歌词格式支持](docs/LyricFormatSupport.md)。
 
 ### 多扩展支持

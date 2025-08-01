@@ -21,7 +21,7 @@ Last revised: August 1, 2025
 - [x] Word-by-word ascent
 - [x] Duet
 - [x] Multi-line simultaneous singing
-- [x] Harmony (supports display above/below the main lyrics)
+- [x] Harmony (supports display above / below the main lyrics)
 - [x] Glow
 
 
@@ -68,7 +68,8 @@ Supports marking singers via `Singer: ` or `Singer: ` (with colon variations).
 ```  
 [Time]Lyrics  
 [bg: [Time]Harmony lyrics ]  
-Note: Harmony formats other than this (e.g., [bg: Harmony lyrics ]) are not supported.  
+Note: Harmony formats other than this 
+      (e.g., [bg: Harmony lyrics ]) are not supported.  
 ```  
 
 Supports marking harmony via `[bg: ]`; harmony supports translations.
@@ -92,7 +93,8 @@ Supports marking singers via prefixes like `v1: `.
 ```  
 [Time1]Lyric1[Time2]Lyric2[Time3]  
 [Time1]Translation[Time]  
-          (↑ No time restrictions here; translations will ultimately follow the main lyrics)  
+                  (↑ No time restrictions here; 
+                  translations will ultimately follow the main lyrics)  
 ```  
 
 Supports marking translations via the same timeline (translations do not support word-by-word timing).
@@ -126,4 +128,4 @@ Note: "mm" and "ss" are for illustrative purposes only; actual support extends t
 
 #### Lyric Formatting
 
-To ensure clean and neat display, Flamingo's `YosLyricView` includes a built-in lyric formatting function. It performs operations on lyric text including but not limited to: merging spaces, converting full-width/half-width symbols, and adding spacing between CJK characters and other languages. This may result in slight visual differences between the displayed lyrics and the original file content, so please note this.
+To ensure clean and neat display, Flamingo's `YosLyricView` includes a built-in lyric formatting function. It performs operations on lyric text including but not limited to: **merging spaces, converting full-width / half-width symbols, and adding spacing between CJK characters and other languages**. This may result in slight visual differences between the displayed lyrics and the original file content, so please note this.

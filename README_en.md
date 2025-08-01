@@ -45,23 +45,21 @@ Flamingo is a local music player for Android, styled after Apple Music, and is c
 
 ## Key Features
 
-### Support for Multiple Lyric Formats (Parsing/Display)
+### Support for Multiple Lyric Formats (Parsing / Display)
 Flamingo supports parsing and display of `full TTML` and `various LRC formats` lyrics, with a built-in lyric formatting function to automatically standardize lyric layouts.
-
-Detailed supported lyric formats (partial list here):
 
 For the full list, see [Flamingo Lyric Format Support](docs/LyricFormatSupport_en.md).
 
 ### Multiple Extension Support
 
 Lyric Getter API
-> Supports Lyric Getter, an Xposed module (now compatible with LSPosed / LSPatch) that retrieves lyrics from music apps via hooking and provides them to other modules/apps. Can be used to implement status bar lyrics.
+> Supports Lyric Getter, an Xposed module (now compatible with LSPosed / LSPatch) that retrieves lyrics from music apps via hooking and provides them to other modules / apps. Can be used to implement status bar lyrics.
 
 Super Lyric API
 > Supports Super Lyric, a new lyric retriever module with an updated API! Can be used to implement status bar lyrics.
 
 Ticker Lyric
-> Supports sending lyrics via the ticker in notifications; some systems/modules can use this feature to retrieve lyrics and provide services like status bar lyrics.
+> Supports sending lyrics via the ticker in notifications; some systems / modules can use this feature to retrieve lyrics and provide services like status bar lyrics.
 
 FFmpeg Support
 > Supports audio decoding using the FFmpeg aar extension (compliant with the LGPL license), which is enabled by default as a fallback.
