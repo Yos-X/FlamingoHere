@@ -5,7 +5,9 @@ Last revised: August 1, 2025
 
 ## TTML
 
-> TTML (Timed Text Markup Language) is an XML-based timed text markup language. It is designed for cross-subtitle and subtitle delivery applications worldwide, simplifying interoperability while maintaining consistency and compatibility with other subtitle file formats. Its file extension is .ttml.
+> TTML (Timed Text Markup Language) is an XML-based timed text markup language. It is designed for cross-subtitle and subtitle delivery applications worldwide, simplifying interoperability while maintaining consistency and compatibility with other subtitle file formats.
+
+> Its file extension is .ttml.
 
 
 ### Parsing Support
@@ -27,7 +29,9 @@ Last revised: August 1, 2025
 
 ## LRC
 
-> LRC (short for LyRiCs) is a computer file format that synchronizes with audio files (such as MP3, Vorbis, or MIDI). The LRC format is a text format similar to subtitle files for TV and movies. Its file extension is .lrc.
+> LRC (short for LyRiCs) is a computer file format that synchronizes with audio files (such as MP3, Vorbis, or MIDI). The LRC format is a text format similar to subtitle files for TV and movies.
+
+> Its file extension is .lrc.
 
 Over time, LRC has lacked standardized specifications from any organization, leading to various variants. Flamingo only supports the common types listed below.
 
